@@ -5,7 +5,7 @@
 
 * In the video folder, a.mp4, b.mp4, and c.mp4, with your own videos.
 
-* Go into the video-program folder and open the command prompt. 
+* Right click on the video-program-main folder in Finder and "New Terminal at Folder".
 
 * Create the virtual environment: 
 ```
