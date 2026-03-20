@@ -25,3 +25,9 @@ python main.py
 
 * Have Fun!!!
 
+
+# Controls
+a - Play a.mp4
+b - Play b.mp4
+c - Play c.mp4
+q - quit
