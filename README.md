@@ -9,7 +9,7 @@
 
 * Create the virtual environment: 
 ```
-python3.14 -m venv ".venv"
+python3.13 -m venv ".venv"
 ```
 
 * Start virtual environment and install dependencies:
