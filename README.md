@@ -25,9 +25,9 @@ python main.py
 
 * Have Fun!!!
 
+* P.S: If you want to change the videos after already playing them on the website, you have to clear your browser history. Annoying I know!
 
 # Controls
 * a - Play a.mp4
 * b - Play b.mp4
 * c - Play c.mp4
-* q - Quit
